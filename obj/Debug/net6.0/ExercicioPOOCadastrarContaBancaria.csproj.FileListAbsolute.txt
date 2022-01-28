@@ -1,0 +1,15 @@
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.exe
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.deps.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.runtimeconfig.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ref\ExercicioPOOCadastrarContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\bin\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.csproj.AssemblyReference.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.AssemblyInfoInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.AssemblyInfo.cs
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ref\ExercicioPOOCadastrarContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOCadastrarContaBancaria\obj\Debug\net6.0\ExercicioPOOCadastrarContaBancaria.genruntimeconfig.cache
